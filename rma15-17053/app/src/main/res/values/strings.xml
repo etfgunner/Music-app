@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">rma15-17053</string>
+    <string-array name="zanrovi">
+        <item>rock</item>
+        <item>pop</item>
+        <item>klasik</item>
+        <item>folk</item>
+        <item>bluz</item>
+    </string-array>
+    <string name="title_activity_nova_aktivnost">Detalji  :</string>
+    <string name="labela_naziv">Naziv muzicara  :</string>
+    <string name="labela_web" translatable="false">Web stranica  :</string>
+    <string name="labela_zanr" translatable="false">Zanr  :</string>
+    <string name="labela_biografija" translatable="false">Biografija  :</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

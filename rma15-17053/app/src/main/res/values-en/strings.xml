@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rma15-17053</string>
+    <string name="labela_naziv">Musician name  </string>
+    <string name="labela_web" translatable="false">Web page  </string>
+    <string name="labela_zanr" translatable="false">Genre  </string>
+    <string name="labela_biografija" translatable="false">Biography  </string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rma15-17053</string>
+    <string name="labela_biografija" translatable="false"></string>
+    <string name="title_activity_nova_aktivnost"></string>
+</resources>
